@@ -1,0 +1,85 @@
+/* Global Styling */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .section-title {
+    text-align: center;
+    padding: 40px 0;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background-color: #1a2c54;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 18px;
+  }
+  
+  .hero .btn-primary {
+    background-color: #00aaff;
+    border-color: #00aaff;
+  }
+  
+  /* About Section */
+  #about p {
+    text-align: center;
+  }
+  
+  #about .col-md-4 {
+    margin-bottom: 20px;
+  }
+  
+  /* Services Section */
+  #services .p-4 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  #services h5 {
+    font-weight: bold;
+  }
+  
+  /* Portfolio Section */
+  #portfolio .portfolio-item {
+    margin-bottom: 30px;
+  }
+  
+  #portfolio .portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  /* Team Section */
+  #team .team-member img {
+    border-radius: 50%;
+  }
+  
+  #team .team-member h5 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  #team .team-member p {
+    color: gray;
+  }
+  
+  /* Contact Section */
+  .contact-form .form-control {
+    margin-bottom: 15px;
+  }
+  
