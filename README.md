@@ -142,59 +142,6 @@
 </html>
 
 
-1. Struktur Dasar HTML
-<!DOCTYPE html>: Mendeklarasikan jenis dokumen sebagai HTML5.
-<html lang="en">: Tag pembuka untuk dokumen HTML dengan atribut lang="en" yang menunjukkan bahwa bahasa utama halaman ini adalah bahasa Inggris.
-<head>: Bagian untuk metadata halaman seperti judul, link stylesheet, dan charset.
-<meta charset="UTF-8">: Menentukan karakter encoding sebagai UTF-8 untuk mendukung berbagai karakter.
-<meta name="viewport" ...>: Mengatur agar halaman responsif pada perangkat dengan berbagai ukuran layar.
-<title>: Menentukan judul halaman yang tampil di tab browser.
-<link>: Menghubungkan halaman dengan stylesheet eksternal, seperti Bootstrap dan file CSS lokal (style.css).
-2. Navbar
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">: Elemen navigasi menggunakan Bootstrap untuk memberikan desain yang responsif dan warna gelap.
-<a class="navbar-brand" href="#">: Teks/logo "Ark Web Design" di sebelah kiri navbar.
-Hamburger Menu: Tombol untuk menampilkan menu dropdown di perangkat kecil.
-<ul class="navbar-nav ms-auto">: Daftar menu navigasi dengan gaya align kanan (ms-auto).
-3. Hero Section (#home)
-Elemen ini adalah bagian utama yang memperkenalkan situs web.
-Heading (<h1>): Menampilkan tagline "Solusi Lebih Baik Untuk Bisnis Anda".
-Deskripsi (<p>): Kalimat singkat yang memperkenalkan layanan tim.
-Tombol Call-to-Action:
-Get Started: Tombol utama untuk memulai layanan.
-Watch Video: Tombol sekunder untuk melihat video pengantar.
-4. About Section (#about)
-Bagian ini memberikan informasi tentang tim dan perusahaan:
-Judul: "Tentang Kami".
-Deskripsi: Menjelaskan misi, visi, dan nilai perusahaan.
-<div class="row text-center">: Menggunakan grid Bootstrap untuk menampilkan misi, visi, dan nilai dalam tiga kolom.
-5. Services Section (#services)
-Bagian ini memaparkan layanan utama yang ditawarkan:
-Judul: "Servis Kami".
-Layanan:
-Web Design: Fokus pada desain visual dan pengalaman pengguna.
-Development: Pengembangan situs web dengan teknologi modern.
-SEO Optimization: Pengoptimalan agar situs ramah mesin pencari.
-<div class="row">: Grid Bootstrap digunakan untuk menampilkan layanan dalam tiga kolom.
-6. Portfolio Section (#portfolio)
-Bagian ini menunjukkan proyek-proyek yang telah dikerjakan:
-Judul: "Portofolio Kami".
-Proyek:
-Biometrics Tech: Gambar dan deskripsi singkat tentang teknologi biometrik.
-Develop Portfolio: Desain portofolio untuk pengembang.
-Mobile Web Design: Desain web untuk perangkat mobile.
-<div class="row">: Menggunakan grid Bootstrap untuk menampilkan tiga gambar dengan keterangan di bawahnya.
-7. Contact Section (#contact)
-Bagian untuk pengunjung menghubungi perusahaan:
-Formulir Kontak:
-Input untuk nama, email, dan pesan dengan tombol "Send Message".
-Informasi Kontak:
-Alamat, email, dan nomor telepon perusahaan.
-Grid Layout: Bagian kontak terbagi menjadi dua kolom untuk formulir (kiri) dan informasi kontak (kanan).
-8. Script
-Bootstrap JavaScript Bundle: Memungkinkan fitur interaktif seperti navbar yang dapat dibuka-tutup.
-Fitur Utama dalam Kode
-Responsif dengan Bootstrap: Menggunakan grid dan class Bootstrap untuk memastikan halaman terlihat baik di berbagai perangkat.
-Desain Modern: Bagian seperti navbar, hero, dan card memberikan kesan profesional.
-Call-to-Action: Tombol yang mendorong pengunjung untuk bertindak (Get Started, Watch Video, Send Message).
-Portofolio: Menunjukkan hasil kerja untuk menarik minat calon pelanggan.
-Formulir Kontak: Memudahkan pengunjung untuk berkomunikasi langsung.
+
+
+
