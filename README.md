@@ -131,7 +131,7 @@
         <h5>Informasi Kontak</h5>
         <p><strong>Alamat:</strong> Sleman, Yogyakarta, Indonesia</p>
         <p><strong>Email:</strong> b.f.arkana089@gmail.com</p>
-        <p><strong>Phone:</strong> +62 856-4034-9218</p>
+        <p><strong>Phone:</strong> +62 85*-****-****</p>
       </div>
     </div>
   </div>
